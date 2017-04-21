@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Gnumch Equality 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.gnumch.equalityActivity
+bundle_id = net.gcompris.gnumch.equalityActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
